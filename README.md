@@ -1,2 +1,2 @@
-# Studens
+# Students
 1. Alex Ordynski
