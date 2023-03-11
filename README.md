@@ -1,2 +1,2 @@
 # Students
-1. Alex Ordynski
+1. 
